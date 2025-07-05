@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# GCP service account key
+*.json
