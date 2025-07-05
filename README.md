@@ -12,7 +12,7 @@ This project automates secure secret rotation and syncing between AWS Secrets Ma
 ## 📁 Structure
 
 - `terraform/` – IAM setup for AWS and GCP
-- `scripts/` (future) – Python scripts to perform sync & rotation
+- `sync/`      – Python scripts to perform sync & rotation
 
 ## ⚙️ Tech Stack
 
